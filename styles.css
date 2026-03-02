@@ -44,15 +44,11 @@ h1 {
     padding: 10px 15px;
     border: none;
     border-radius: 6px;
-    background-color: #f6c23e;
+    background-color: greenyellow;
     color: #333;
     font-weight: bold;
     cursor: pointer;
     transition: 0.3s ease;
-}
-
-#search-btn:hover {
-    background-color: #e0a800;
 }
 
 
